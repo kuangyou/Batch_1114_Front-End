@@ -1,0 +1,12 @@
+.Q1 table{
+    border-collapse: collapse;
+}
+.Q1 table,
+.Q1 td,
+.Q1 th{
+    border: 2px solid black;
+}
+
+.Q2 input{
+    border-radius: 6px;
+}
